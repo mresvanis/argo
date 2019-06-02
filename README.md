@@ -44,7 +44,7 @@ For a sample configuration file refer to [`config.sample.json`](config.sample.js
 To start *argo*, a configuration file is needed:
 
 ```shell
-$ argo --config config.json
+$ ./argo --config config.json
 ```
 You can use [`config.sample.json`](config.sample.json) as a starting point.
 
